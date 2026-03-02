@@ -6,6 +6,8 @@
 
 The Emir sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from The Emir in Stronghold Crusader.
 
+The Emir is a fierce and direct Arabian warlord who favours aggression over negotiation. He speaks bluntly, commits fully to his allies, and meets setbacks with fury rather than calculation — a powerful friend and a relentless enemy.
+
 ## Install
 
 ```bash
